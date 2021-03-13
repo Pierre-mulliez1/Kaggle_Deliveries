@@ -1,2 +1,2 @@
 # Kaggle_Deliveries
-Python, final models: ridge - random forst regressor 
+Python, final models: Ridge - Random Forest Regressor 
